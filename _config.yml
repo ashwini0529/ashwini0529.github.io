@@ -3,7 +3,7 @@ name: Ashwini Purohit
 bio: Loves to code and explore new things.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Loves to code and meet new people.
 
 # if it's an external image, update below for true
 # better with square images
@@ -31,6 +31,7 @@ highlighter: rouge
 # if you don't have any of social below, comment the line
 facebook: purohit.ashwini
 twitter: ashwini0529
+resume: assets/resume.pdf
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -73,7 +74,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: false
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true

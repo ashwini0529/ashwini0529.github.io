@@ -23,6 +23,12 @@
         </a>
     {% endif %}
 
+    {% if site.resume %}
+        <a class="link" data-title="/{{ site.resume }}" href="/{{ site.resume }}" target="_blank">
+            <svg class="icon icon-download"><use xlink:href="#icon-download"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.pinterest %}
         <a class="link" data-title="pinterest.com/{{ site.pinterest }}" href="http://pinterest.com/{{ site.pinterest }}" target="_blank">
             <svg class="icon icon-pinterest"><use xlink:href="#icon-pinterest"></use></svg>
